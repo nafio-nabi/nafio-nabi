@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nafio Nabi.
 - 👀 I’m interested in web programming.
-- 🌱 I’m currently learning Python, and Flask.
+- 🌱 I’m currently learning Python, and Django.
 - 📫 You can reach me on Twitter [@nafio_nabi](https://twitter.com/nafio_nabi).
 
 <!---
